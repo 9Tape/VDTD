@@ -1,1 +1,1 @@
-!(http://azuolynas.blogr.lt/?attachment_id=12)
+!(http://azuolynas.blogr.lt/files/2014/09/logo.jpg)
