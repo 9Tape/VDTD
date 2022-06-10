@@ -8,9 +8,13 @@ VDTD (Vilius, Dovydas, Tautvydas, Danielius) tai paprastas šachamtų variklis p
 # ATSISIUNTIMAS
 ### LINUX:
 Atsisiųsti failus:
+
 `https://github.com/9Tape/VDTD.git`
+
 Nuėjus į "Sachmatai" aplanka paleisti terminalą ir irašyti:
+
 `python3 sachmatai.py`
+
 Atsisiųsti visus reikiamus import'us. Taip pat reikalingas python compiler'is
 
 # KAIP ŽAISTI
