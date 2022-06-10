@@ -5,7 +5,7 @@ VDTD (Vilius, Dovydas, Tautvydas, Danielius) tai paprastas šachamtų variklis p
 
 # GUI
 
-/////
+![GUI](https://cdn.discordapp.com/attachments/753632916327760033/984919528385441872/unknown.png)
 
 # ATSISIUNTIMAS
 
