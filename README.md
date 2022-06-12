@@ -11,7 +11,7 @@ Atsisiųsti failus per terminalą:
 
 `git clone https://github.com/9Tape/VDTD.git`
 
-Nuėjus į "Sachmatai" aplanką paleisti terminalą ir irašyti:
+Nuėjus į "Sachmatai" aplanką paleisti terminalą ir įrašyti:
 
 `python3 sachmatai.py`
 
