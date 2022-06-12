@@ -27,4 +27,7 @@ Atsisiųsti visus reikiamus import'us per terminalą. Taip pat reikalingas Pytho
 
 # KAIP ŽAISTI
 
-/////
+Nuėjus į "Sachmatai" aplanką paleisti terminalą ir įrašyti:
+
+`python3 sachmatai.py`
+
