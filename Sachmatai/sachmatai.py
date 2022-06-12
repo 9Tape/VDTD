@@ -14,7 +14,6 @@ import chess
 
 
 # APSIRASOM KIEKVIENOS FIGUROS IVERTINIMA ESANT BETKOKIAME LENTOS LANGELYJE
-
 pestininkoLenta = [
 	0, 0, 0, 0, 0, 0, 0, 0,
     5, 10, 10, -20, -20, 10, 10, 5,
@@ -76,7 +75,6 @@ karaliausLenta = [
     -30, -40, -40, -50, -50, -40, -40, -30]
 
 # TIKRINAM AR ZAIDIMAS VIS DAR VYKSTA. JEIGU BAIGES - SURANDAM KAS LAIMEJO
-
 if board.is_checkmate(): # jeigu sachas ir matas
 	if board.turn:
 		return -9999
@@ -91,7 +89,6 @@ if board.is_insufficient_material(): # jeigu lygiosios, nes nebera figuru
 
 # SURANDAM KIEK BETKOKIU MEMENTU ANT LENTOS YRA FIGURU IR KOKIOS JOS
 	# pirma raide - spalva, antra - figuros pavadinimas
-
 bp = len(board.pieces(chess.PAWN, chess.WHITE))
 jp = len(board.pieces(chess.PAWN, chess.BLACK))
 bz = len(board.pieces(chess.KNIGHT, chess.WHITE))
