@@ -31,3 +31,12 @@ Nuėjus į "Sachmatai" aplanką paleisti terminalą ir įrašyti:
 
 `python3 sachmatai.py`
 
+- Pradėti iš naujo: paleidžia žaidimą iš pradžių.
+- Sugrįžti ėjimu atgal: grįžta vienu ėjimu atgal.
+- Priešininko ėjimas: ėjimą atlieką AI, su tom figūrom, kurių eilė yra sekanti.
+- "Stockfish" ėjimas: ėjimą padaro Stockfish AI (vienas iš geriausių pasaulyje šachmatų AI), taip galima žaisti AI vs AI.
+- Atlikti ėjimą: įrašykite koordinates figūros kurią norite pajudinti ir kur norite, kad ji pajudėtu. Pavizdys apačioje.
+
+`d2d4`
+
+![pvz]()
