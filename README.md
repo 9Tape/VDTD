@@ -11,11 +11,19 @@ Atsisiųsti failus:
 
 `https://github.com/9Tape/VDTD.git`
 
-Nuėjus į "Sachmatai" aplanka paleisti terminalą ir irašyti:
+Nuėjus į "Sachmatai" aplanką paleisti terminalą ir irašyti:
 
 `python3 sachmatai.py`
 
-Atsisiųsti visus reikiamus import'us. Taip pat reikalingas python compiler'is
+Atsisiųsti visus reikiamus import'us per terminalą. Taip pat reikalingas Python compiler'is
+
+`pip install python-chess`
+
+`pip install flask`
+
+`pip install pyttsx3`
+
+`pip install webbrowser`
 
 # KAIP ŽAISTI
 
