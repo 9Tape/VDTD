@@ -17,13 +17,13 @@ Nuėjus į "Sachmatai" aplanką paleisti terminalą ir įrašyti:
 
 Atsisiųsti visus reikiamus import'us per terminalą. Taip pat reikalingas Python compiler'is
 
-`pip install python-chess`
+`pip3 install python-chess`
 
-`pip install flask`
+`pip3 install flask`
 
-`pip install pyttsx3`
+`pip3 install pyttsx3`
 
-`pip install webbrowser`
+`pip3 install webbrowser`
 
 
 ### WINDOWS
