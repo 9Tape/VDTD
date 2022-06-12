@@ -25,6 +25,11 @@ Atsisiųsti visus reikiamus import'us per terminalą. Taip pat reikalingas Pytho
 
 `pip install webbrowser`
 
+
+### WINDOWS
+
+///
+
 # KAIP ŽAISTI
 
 Nuėjus į "Sachmatai" aplanką paleisti terminalą ir įrašyti:
